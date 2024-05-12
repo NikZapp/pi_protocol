@@ -3,8 +3,8 @@
         "id": 130,
         "fields": {
             "username": "String",
-            "protocol1": "IntBE",
-            "protocol2": "IntBE"
+            "protocolClient": "IntBE",
+            "protocolServer": "IntBE"
         }
     },
     "LoginStatusPacket": {
